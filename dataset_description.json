@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Exploratory dataset for the second generation of molecular tickertapes in the Adam Cohen Lab.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Davis Ozawa, Hunter"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
